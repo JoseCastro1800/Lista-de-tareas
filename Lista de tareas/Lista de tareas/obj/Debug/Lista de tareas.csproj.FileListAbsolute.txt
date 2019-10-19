@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\bin\Debug\Lista de tareas.exe.config
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\bin\Debug\Lista de tareas.exe
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\bin\Debug\Lista de tareas.pdb
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\obj\Debug\Lista de tareas.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\obj\Debug\Lista de tareas.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\obj\Debug\Lista de tareas.exe
+C:\Users\karla\OneDrive\Desktop\Lista de tareas\Lista de tareas\obj\Debug\Lista de tareas.pdb
